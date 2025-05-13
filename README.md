@@ -1,1 +1,1 @@
-# WARNING: before updating rife-ncnn-python for windows, copy vcomp140.dll to root directory of the whl using 7-zip 
+These are not my models, just a place where I host them. They all belong under their respective licenses.
